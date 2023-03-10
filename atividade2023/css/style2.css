@@ -1,0 +1,326 @@
+nav {
+    position: relative;
+    width: 1440px;
+    height: 8609px;
+
+    background: #756268;
+}
+
+.bloco-1 {
+    position: absolute;
+    width: 1516px;
+    height: 240px;
+    left: -76px;
+    top: 117px;
+
+    background: #413E4A;
+}
+
+.bloco-1 p {
+    position: absolute;
+    width: 1213px;
+    height: 220px;
+    left: 108px;
+    top: 83px;
+
+    font-family: 'Josefin Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 96px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.text-1 img {
+    position: absolute;
+    width: 436px;
+    height: 666px;
+    left: 846px;
+    top: 119px;
+}
+
+.text-1 h3 {
+    position: absolute;
+    width: 665px;
+    height: 56px;
+    left: 80px;
+    top: 185px;
+
+    font-family: 'Josefin Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 48px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.para-1 {
+    position: absolute;
+    width: 687px;
+    height: 360px;
+    left: 68px;
+    top: 398px;
+
+    font-family: 'Josefin Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 35px;
+
+    color: #FFFFFF;
+
+}
+
+.para-2 {
+    position: absolute;
+    width: 1234px;
+    height: 506px;
+    left: 68px;
+    top: 798px;
+
+    font-family: 'Josefin Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 35px;
+
+    color: #FFFFFF;
+}
+
+.text-1 {
+
+    position: absolute;
+    width: 1360px;
+    height: 1410px;
+    left: 39px;
+    top: 458px;
+
+    background: rgba(184, 140, 135, 0.72);
+}
+
+
+
+.text-2 {
+    position: absolute;
+    width: 1355px;
+    height: 4384px;
+    left: 42px;
+    top: 2029px;
+
+    background: rgba(184, 140, 135, 0.72);
+}
+
+.text-2 h3 {
+    position: absolute;
+    width: 480px;
+    height: 96px;
+    left: 830px;
+    top: 137px;
+
+    font-family: 'Josefin Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 48px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.text-2 img {
+
+    position: absolute;
+    width: 645px;
+    height: 480px;
+    left: 83px;
+    top: 139px;
+
+}
+
+.para-3 {
+    position: absolute;
+    width: 501px;
+    height: 192px;
+    left: 763px;
+    top: 361px;
+
+    font-family: 'Josefin Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    text-align: right;
+
+    color: #FFFFFF;
+}
+
+.para-4 {
+    position: absolute;
+    width: 1222px;
+    height: 508px;
+    left: 83px;
+    top: 673px;
+
+    font-family: 'Josefin Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+
+    color: #FFFFFF;
+}
+
+.img-6 img {
+   
+position: absolute;
+width: 828px;
+height: 632px;
+left: 205px;
+top: 1207px;
+}
+.img-6 p{
+    position: absolute;
+width: 1116px;
+height: 618px;
+left: 83px;
+top: 1933px;
+
+font-family: 'Josefin Sans';
+font-style: italic;
+font-weight: 400;
+font-size: 32px;
+line-height: 32px;
+
+color: #FFFFFF;
+
+}
+.img-7 img{
+    position: absolute;
+width: 653px;
+height: 652px;
+left: 314px;
+top: 2457px;
+}
+.img-7 p{
+    position: absolute;
+width: 1183px;
+height: 572px;
+left: 83px;
+top: 3213px;
+
+font-family: 'Josefin Sans';
+font-style: italic;
+font-weight: 400;
+font-size: 32px;
+line-height: 32px;
+
+color: #FFFFFF;
+
+}
+.img-8 img{
+    position: absolute;
+    width: 477px;
+    height: 608px;
+    left: 83px;
+    top: 3631px
+}
+.img-8 p{
+    position: absolute;
+width: 620px;
+height: 468px;
+left: 674px;
+top: 3689px;
+
+font-family: 'Josefin Sans';
+font-style: italic;
+font-weight: 400;
+font-size: 32px;
+line-height: 32px;
+
+color: #FFFFFF;
+}
+.text-3{
+    
+position: absolute;
+width: 1276px;
+height: 1512px;
+left: 91px;
+top: 6597px;
+
+background: rgba(184, 140, 135, 0.72);
+}
+.text-3 h3{
+    position: absolute;
+width: 1164px;
+height: 88px;
+left: 58px;
+top: 101px;
+
+font-family: 'Josefin Sans';
+font-style: italic;
+font-weight: 400;
+font-size: 64px;
+line-height: 64px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.img-9 img{
+    position: absolute;
+    width: 993px;
+    height: 581px;
+    left: 148px;
+    top: 251px; 
+}
+.img-9 p{
+    position: absolute;
+width: 1148px;
+height: 744px;
+left: 83px;
+top: 873px;
+
+font-family: 'Josefin Sans';
+font-style: italic;
+font-weight: 400;
+font-size: 32px;
+line-height: 32px;
+
+color: #FFFFFF;
+}
+
+.f-2{
+position: relative;
+width: 1440px;
+height: 345px;
+bottom: 348px;
+background: rgba(255, 252, 245, 0.95);
+}
+.f-2 p{
+    position: absolute;
+width: 707px;
+height: 125px;
+left: 366px;
+top: 140px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 48px;
+text-align: center;
+
+color: #000000;
+
+}
+.f-2 img{
+    position: absolute;
+width: 44px;
+height: 38px;
+left: 344px;
+top: 140px;
+
+}
